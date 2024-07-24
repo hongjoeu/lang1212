@@ -27,10 +27,11 @@ body{
     
 }
 .navbar .nav-brand{
-    width: 150px;
+    width: 100px;
     height: 100px;
     /* margin-left: 50px; */
     padding-top: 20px;  
+    padding-bottom: 20px;
 }
 /* menu bar */
 .navbar .nav-navbar{
@@ -50,8 +51,8 @@ body{
     
 }
 .navbar .nav-navbar .nav-list:hover{
-    border-bottom: 3px solid #41B06E;
-    color: #41B06E;
+    border-bottom: 3px solid #fca311;
+    color: #fca311;
 
 }
 
